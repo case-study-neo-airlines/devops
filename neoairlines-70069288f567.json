@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "neoairlines",
+  "private_key_id": "d88259daa50639b34cbcd078e171e1f54647f077",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAnB+IhfWiULIA\n8jM2y7iVZrGYRMK+lXENh/9RG2fhxUm8p4cEathof0hVszzk6EbqURdl7+56MHFb\nbc8mHuEkMmE0p4vta+bF0gkB5FVKfIMlzQz5u/zYQmigkZwRGo8WXfGMWSbymQoL\nVxqIDILeOYFe9xw2CzF52ZMB62ru3uPl79N+PUAcbiBn80UFPL+mmm5Mwo0kb8dX\nqg2Mzj+iRUGSVHpYi/wwA9BU4Bim7bQBpjbIxSJW6OKKl+n9HXy1eb/U5bDx238k\n197ZmFaWXOnbbxZpmjvswsyaKzAwpwucVrnF+QI3YFcA7Q0DHCVhXT0pvyossn5o\n4dqe9zmvAgMBAAECggEABFVpmY1T1IU2uk5/32Gjmo8qnxwcD9ZdKnw322b8Hwoz\n5C/6GdTJmJvciVdRLVI20AjZDOziTGhl9IlzoPHVlk89NcZpgzvrf6kOBwzCQaBz\nVvUrzB+OkkTbWue9lN5E43eciOylerD9s2tlhKV0TpDQcSNVi7eF3gNuNeK8OjKD\nbI9WfuEtSxNAATSY13LbJc6VpsStDVRAONoYE8RXH0f6n/KQUI8xtDu0CFbU6iZI\nwKh3RnNfEVTA/Lt5WN5VWbZYXpZIATkq3+Vdud5IvvwfuoI1Stzs2sALTUXWLwfj\niMj/hsh0WrKQL4mhqIyJw9nivMqEIrujR37l9cskaQKBgQDnBDu0wy5R63vaPwHY\nnM3fNof/P12jxnBBLBVE+WA8hIEYyp38LHNVAn7iGJfJcQybBXCfIFGHM1R1wFku\ncalb+a9EhSD1pYFPH4xod734VG9cxz4yykXPeqDdkQF9Kxi4dn0PNM/6s/BtohCI\nuZ/QpAknIIotE7z+QAOQJAnzmwKBgQDVcJa2UFMhOlLTq7jz873OF+x80na1g6hp\nEBONNJ+Hr63MjBe/PGeU0Qd/j3JbRSRSU1zvykBgs+utU+WZISSdQ1aIk2IiGr8i\nqS5SnbpbByduzJjIMtykXdZsRT8+jSJRQZMClmkWZfngP4IM41k+2tNvIrQCB/cP\nnejcJ7/FfQKBgGcVoH7cyYKMjcupae16qvL7plvjrqkyF009mpAYpzTZ+7FQWIb6\nXsyEPJIvXyvoYjOajdKz3S1zXjDdD+6FkYkVNXxh239Bxx3DeifzprV1F+xSjBKl\n59jZY4b6+asc2/8UAGIUsumv+Y0yUCZyjjnPuLXY80+CC0d40R40tqwZAoGBALl/\nISyPgL/nDWby3kn+Mp4zwo705sB4DNxKYYOeEWt+LgEQW+8S0z7Nr8OX6p4R6DA4\nTRQFZY/lrlS0Dl3YJRccF8+Yr3fOYQEBocWhWP2VqRqta7bKJWIgP6NXR1DYndOa\ntuZPzELwG4teBmunBsAOtCTpNyJww7Jp3Z/AV/WNAoGBANwqoL0Rlj1LNGXeUhb6\n3SN8/jedUzdmE+uUN6QE2tiBq8aFbOJdnrIVez8RG4Hb1RMCgxF5NtOjBDIOEf8A\nGrSw/Xdu/bu3t31Yyg1/3yDp8Oq79UfxvZsd3bD78htkGs4Z4M+fpLKkKfJAb+z7\n+LJqllhKa84IsecAtEh7QRNp\n-----END PRIVATE KEY-----\n",
+  "client_email": "neoowner@neoairlines.iam.gserviceaccount.com",
+  "client_id": "118432503061744872704",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/neoowner%40neoairlines.iam.gserviceaccount.com"
+}
