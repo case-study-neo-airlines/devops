@@ -33,12 +33,22 @@ Usage
 | a | b | c | d | e |
 
 
-## Requirements
+## Running Environment Proovisioing
 
-Required:
+To provision the infastructure on Google cloud account, follow the following steps:
 
-1. Terraform 
-2. The Servic
+1. Install Terraform locally. 
+2. Run the following commands.
+- terraform init
+- terraform plan petclinic.tfplan
+- terraform apply -f petclinic.tfplan
+
+# Configuring Jenkins Job
+Create new job of type pipeline giving it the petclinic repo mentioned above as source code.
+
+# Configuring Grafana
+1. Add Prometheus as data source in grafana.
+2. Import [Jenkins dashboard](https://grafana.com/grafana/dashboards/9524) into grafana and apply it to the prometheus dataset.
 
 ### Software Dependencies
 #### Kubectl
