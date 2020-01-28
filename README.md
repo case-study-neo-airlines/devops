@@ -1,5 +1,14 @@
 # NEO Airlines Case Study 
-This is a Iac terraform repository intended to build the devops as well as the devops platform ( CI/CD and it's monitoring ) for the [Spring Petclinic project]: https://github.com/case-study-neo-airlines/spring-petclinic
+This is a Iac terraform repository intended to provision the following:
+- Kubernetes cluster on Google cloud.
+- Two namespaces within that cluster ( dev and test ) to be used as environments platform for hosting the applicaiton.
+- One namespace ( devops ) for hositng jenkins and other devops tools.
+- Install Tiller to k8s cluster
+- Deploy Jenkins helm chart a long with Prometheos and Grafana charts.
+- Add new target within prometheos to pull metrics from jenkins
+
+The Platform is then used to build and deploy the petclinic App using the installed jenkins and deploy it to the kubernetes cluster 
+####[Spring Petclinic project]: https://github.com/case-study-neo-airlines/spring-petclinic
 
 
 ## Components
