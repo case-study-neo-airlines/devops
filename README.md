@@ -20,22 +20,6 @@ The Platform is then used to build and deploy the petclinic App using the instal
 - Jenkins URL: http://35.202.17.65:8080/job/neo/
 - grafana jenkins dashboard: http://35.223.202.153/d/-y-jaPEmk/a-jenkins-performance-and-health-overview-for-jenkinsci-prometheus-plugin?orgId=1
 
-## Usage
-Usage 
-
-## Inputs
-
-| Name | Description | Type | Default | Required |
-|------|-------------|:----:|:-----:|:-----:|
-| a | b | c | d | e |
-
-## Outputs
-
-| Name | Description | Type | Default | Required |
-|------|-------------|:----:|:-----:|:-----:|
-| a | b | c | d | e |
-
-
 ## Running Environment Proovisioing
 
 To provision the infastructure on Google cloud account, follow the following steps:
