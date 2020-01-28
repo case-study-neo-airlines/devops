@@ -11,9 +11,9 @@ The Platform is then used to build and deploy the petclinic App using the instal
 ####[Spring Petclinic project]: https://github.com/case-study-neo-airlines/spring-petclinic
 
 
-## Components
+## Endpoints
 
-This module consists of
+Jenkins URL: http://35.202.17.65:8080/job/neo/
 
 ## Usage
 Usage 
