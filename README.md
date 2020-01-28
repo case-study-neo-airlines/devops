@@ -13,9 +13,6 @@ The Platform is then used to build and deploy the petclinic App using the instal
 
 ## Endpoints
 
-Application URL - dev environemnt: http://35.239.44.251:8080/
-Jenkins URL: http://35.202.17.65:8080/job/neo/
-grafana jenkins dashboard: http://35.223.202.153/d/-y-jaPEmk/a-jenkins-performance-and-health-overview-for-jenkinsci-prometheus-plugin?orgId=1
 
 ## Usage
 Usage 
