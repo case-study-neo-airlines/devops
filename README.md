@@ -1,4 +1,7 @@
 # NEO Airlines Case Study 
+
+![Architecture](https://raw.githubusercontent.com/case-study-neo-airlines/devops/master/neo.JPG)
+
 This is a Iac terraform repository intended to provision the following:
 - Kubernetes cluster on Google cloud.
 - Two namespaces within that cluster ( dev and test ) to be used as environments platform for hosting the applicaiton.
